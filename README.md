@@ -1,4 +1,4 @@
 # Simple python matrix
 
-# Use
+# Usage
 python matrix.py
